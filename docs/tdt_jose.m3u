@@ -26,14 +26,14 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1,TRECE
 https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
 #EXTINF:-1,Clan
-https://rtvelivestream.akamaized.net/rtve/clan_main.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
 #EXTINF:-1,Boing
-https://mdslivehlsb-i.akamaihd.net/hls/live/1004724/boing/boing.m3u8
+http://185.189.225.150:85/boing/index.m3u8
 #EXTINF:-1,Canal Sur
-https://cdnlive.sanfernando.rtva.stream/flive/live/channel1/playlist.m3u8
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 #EXTINF:-1,Canal Sur 2
-https://cdnlive.sanfernando.rtva.stream/flive/live/channel2/playlist.m3u8
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1,Telemadrid
-https://tmtv-live-edge01-ajeusa1.akamaized.net/out/v1/f923d8b3f5f841059d1e855f12c1de98/index.m3u8
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1,TV3 (Cataluña)
-https://ccma-live-edge-01-hls.akamaized.net/live/3tv3cat-hls/master.m3u8
+http://185.189.225.150:85/tv3/index.m3u8
