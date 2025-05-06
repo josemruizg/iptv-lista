@@ -1,46 +1,61 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_TVE-1.svg",La 1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1,La 1
+https://rtvelivestream.akamaized.net/rtve/la1_main.m3u8
 
-#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo_TVE-2.svg",La 2
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1,La 2
+https://rtvelivestream.akamaized.net/rtve/la2_main.m3u8
 
-#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Antena_3_logo_2017.svg",Antena 3
-https://live.atresmediainternacional.com/antena3.m3u8
+#EXTINF:-1,Antena 3
+https://live.atresmediainternacional.com/ATRESMEDIA_A3.m3u8
 
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Cuatro_logo.svg",Cuatro
-https://streaming.mediaset.es/canalcuatro.m3u8
+#EXTINF:-1,Cuatro
+https://mdslivehlsb-i.akamaihd.net/hls/live/1004723/cuatro/cuatro.m3u8
 
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Telecinco_logo.svg",Telecinco
-https://streaming.mediaset.es/canaltelecinco.m3u8
+#EXTINF:-1,Telecinco
+https://mdslivehlsb-i.akamaihd.net/hls/live/1004720/telecinco/telecinco.m3u8
 
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/LaSexta_logo_2020.svg",La Sexta
-http://185.189.225.150:85/LaSexta/index.m3u8
+#EXTINF:-1,La Sexta
+https://live.atresmediainternacional.com/ATRESMEDIA_LASEXTA.m3u8
 
-#EXTINF:-1 tvg-id="24h.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_TVE-24h.svg",Canal 24h
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1,FDF
+https://mdslivehlsb-i.akamaihd.net/hls/live/1004726/fdf/fdf.m3u8
 
-#EXTINF:-1 tvg-id="13TV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Trece_TV_logo.svg",TRECE
-https://streaming.trecetv.es/trecetv.m3u8
+#EXTINF:-1,Neox
+https://live.atresmediainternacional.com/ATRESMEDIA_NEOX.m3u8
 
-#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mega_logo.svg",Mega
-https://live.atresmediainternacional.com/mega.m3u8
+#EXTINF:-1,Nova
+https://live.atresmediainternacional.com/ATRESMEDIA_NOVA.m3u8
 
-#EXTINF:-1 tvg-id="ClanTVE.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Clan_TVE_logo.svg",Clan
-https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINF:-1,Paramount Network
+https://paramountlive.akamaized.net/hls/live/2033413/ParamountChannel/master.m3u8
 
-#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Boing_logo.svg",Boing
-https://streaming.mediaset.es/canalboing.m3u8
+#EXTINF:-1,DMAX
+https://dmaxsmart.vodgc.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalSurAndalucía.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Canal_Sur_Andaluc%C3%ADa_logo.svg",Canal Sur Andalucía
-https://livestream.canalsur.es/canalsurandalucia.m3u8
+#EXTINF:-1,Canal 24h
+https://rtvelivestream.akamaized.net/rtve/24h_main.m3u8
 
-#EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Canal_Sur_Andaluc%C3%ADa_logo.svg",Canal Sur
-https://livestream.canalsur.es/canalsur.m3u8
+#EXTINF:-1,TRECE
+https://cdn010.versustv.xyz/trecetv/trecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Telemadrid_logo.svg",Telemadrid
-https://directo.telemadrid.es/telemadrid.m3u8
+#EXTINF:-1,Mega
+https://live.atresmediainternacional.com/ATRESMEDIA_MEGA.m3u8
 
-#EXTINF:-1 tvg-id="TV3.cat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/TV3_Catalunya_logo.svg",TV3 Catalunya
-https://ccma-live-tv3-secure-hls.cdn.arcpublishing.com/TV3.m3u8
+#EXTINF:-1,Clan
+https://rtvelivestream.akamaized.net/rtve/clan_main.m3u8
+
+#EXTINF:-1,Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/1004724/boing/boing.m3u8
+
+#EXTINF:-1,Canal Sur
+https://cdnlive.sanfernando.rtva.stream/flive/live/channel1/playlist.m3u8
+
+#EXTINF:-1,Canal Sur 2
+https://cdnlive.sanfernando.rtva.stream/flive/live/channel2/playlist.m3u8
+
+#EXTINF:-1,Telemadrid
+https://tmtv-live-edge01-ajeusa1.akamaized.net/out/v1/f923d8b3f5f841059d1e855f12c1de98/index.m3u8
+
+#EXTINF:-1,TV3 (Cataluña)
+https://ccma-live-edge-01-hls.akamaized.net/live/3tv3cat-hls/master.m3u8
